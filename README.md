@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Abhishek Kumar</h1>
 
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://i0.wp.com/www.printmag.com/wp-content/uploads/2021/02/4cbe8d_f1ed2800a49649848102c68fc5a66e53mv2.gif?fit=476%2C280&ssl=1">
+<img align="right" alt="Coding" width="400" src="[https://i0.wp.com/www.printmag.com/wp-content/uploads/2021/02/4cbe8d_f1ed2800a49649848102c68fc5a66e53mv2.gif?fit=476%2C280&ssl=1](https://giphy.com/stickers/dgitechart-it-coding-itechart-fwbzI2kV3Qrlpkh59e)">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=owem11&label=Profile%20views&color=0e75b6&style=flat" alt="owem11" /> </p>
