@@ -1,4 +1,4 @@
-[![MasterHead](https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/RotatingBrentanoL.gif/640px-RotatingBrentanoL.gif)]
+[![MasterHead](https://64.media.tumblr.com/1eab5dd0e96450c570cae2100fad020e/054466b2c98ba810-48/s1280x1920/800d4b76fb0154e672ba7e13570a8eb0c8aaa062.gif)]
 <h1 align="center">Hi 👋, I'm Abhishek Kumar</h1>
 
 <h3 align="center">A passionate frontend developer from India</h3>
