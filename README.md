@@ -63,7 +63,9 @@ Passionate about Computer Vision, Audio Signal Processing, multimodal neural net
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ---
-
+<div align="center">
+  <img src="https://raw.githubusercontent.com/owem11/owem11/output/github-snake-dark.svg" alt="Snake Animation" />
+</div>
 ## 🎯 Focus
 
 Building **fast, secure, intelligent, and production-ready** systems combining Deep Learning with modern Web Architectures.
