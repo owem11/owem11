@@ -1,10 +1,8 @@
-# ★ Abhishek Kumar
+# ★ Abhishek 
 
 **AI/ML & Full-Stack Engineer**
 
 Building intelligent multimodal deep learning architectures, modern web systems, and cloud pipelines.
-
-> Research → Engineer → Deploy → Scale
 
 ---
 
@@ -28,6 +26,8 @@ Building intelligent multimodal deep learning architectures, modern web systems,
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
 ---
 
@@ -38,6 +38,12 @@ Building intelligent multimodal deep learning architectures, modern web systems,
 ![Ubuntu / VPS](https://img.shields.io/badge/Ubuntu_VPS-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)
+
+---
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/owem11/owem11/output/github-snake-dark.svg" alt="Contributions Snake" />
+</div>
 
 ---
 
