@@ -71,3 +71,7 @@ Passionate about Computer Vision, Audio Signal Processing, multimodal neural net
 Building **fast, secure, intelligent, and production-ready** systems combining Deep Learning with modern Web Architectures.
 
 > Research → Engineer → Deploy → Scale
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:86a8e7,50:d16ba5,100:2e1a2b&height=120&section=footer" width="100%"/>
+</div>
