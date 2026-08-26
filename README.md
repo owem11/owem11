@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2e1a2b,50:d16ba5,100:86a8e7&height=120&section=header" width="100%"/>
+</div>
+
 # 🤖 AI/ML & Full-Stack Engineer
 
 **AI/ML Engineer & Full-Stack Developer | Building Deep Learning Models & Scalable Systems 🚀**
