@@ -42,11 +42,5 @@ Building intelligent multimodal deep learning architectures, modern web systems,
 ---
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/owem11/owem11/output/github-snake-dark.svg" alt="Contributions Snake" />
-</div>
-
----
-
-<div align="center">
   <img src="https://komarev.com/ghpvc/?username=owem11&label=PROFILE%20VIEWS&color=000000&style=for-the-badge" alt="Profile Views" />
 </div>
